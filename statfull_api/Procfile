@@ -1,0 +1,1 @@
+web: gunicorn statfull_api.wsgi --log-file -
